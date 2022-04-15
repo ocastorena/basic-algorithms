@@ -1,10 +1,9 @@
 import java.util.Random;
-import java.util.Formatter;
 import java.util.Arrays;
 
 import sort.*;
 
-public class Test {
+public class Main {
 
 	public static void main(String[] args) {
 	   int arrSize = 1000;
